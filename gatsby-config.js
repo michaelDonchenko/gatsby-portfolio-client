@@ -12,7 +12,7 @@ module.exports = {
       "Fullstack web development portfolio created with gatsby and strapi headless CMS.",
     author: "Michael Donchenko",
     titleTemplate: "%s | Mike dev",
-    siteUrl: "http://localhost:8000",
+    siteUrl: "https://www.michael-dev.com",
   },
 
   plugins: [
